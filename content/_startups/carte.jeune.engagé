@@ -1,0 +1,60 @@
+---
+title: Carte Jeune Engagé
+mission: >-
+  Proposer aux jeunes en CEJ, Service Civique, Ecole de la 2ème Chance, Epide, des avantages sur des biens et services essentiels
+  pour lever les freins économiques à leur insertion professionnelle
+sponsors:
+  - /organisations/mtei
+incubator: dinum
+contact: philippine.menier@beta.gouv.fr
+accessibility_status: non conforme
+phases:
+  - name: investigation
+    start: 2022-05-15
+    end: 2022-11-08
+  - name: construction
+    start: 2022-11-08
+
+---
+
+## Contexte
+
+
+## Problème
+
+Dans un contexte où le coût de la vie augmente de façon significative (énergie, carburant, alimentation), les difficultés financières des jeunes en insertion ont tendance à se renforcer. 
+
+U﻿ne enquête menée dans le cadre de l'investigation a révélé que 70% des jeunes interrogés ne parviennent pas à subvenir à leurs besoins essentiels.  
+
+Par ailleurs, les jeunes CEJ passent « entre les mailles » de tarifications solidaires et autres dispositifs d’aides, fléchés vers les étudiants, demandeurs d’emploi ou bénéficiaires des minimas sociaux. 
+
+L﻿es offres commerciales dont ils pourraient bénéficier sont souvent peu lisibles et leur intérêt économique relativement limité.  
+
+## Solution
+
+Dans un premier temps, la Carte Jeune Engagé proposera une 20aine d’offres, valables à l’échelle nationale, qui permettront de faire de réelles économies sur les dépenses prioritaires exprimées par les bénéficiaires : 
+
+* Alimentation et produits d’hygiène 
+* Mobilité
+* Logement 
+* Soins et santé mentale  
+* Sport, Loisirs, Culture 
+* Equipements (numérique, électroménager, kits d’installation)
+* Services (bancaires, assurances) 
+
+Une application web sera pluggée sur le site 1Jeune1Solution, permettant aux bénéficiaires de se connecter de d'activer les avantages négociés. 
+
+## Stratégie
+
+**2﻿022**
+
+mai - septembre : analyse des besoins auprès des jeunes et des professionnels qui les accompagnent 
+septembre - décembre : négociation des offres avec les 1er partenaires & design de la carte dématérialisée (web app) 
+
+**2﻿023**
+
+janvier - mars : échanges et mobilisation des partenaires prescripteurs & réalisation du MVP
+avril - juin : consolidation des partenariats, du MVP & préparation au lancement
+juillet - septembre : phase de test : adaptation de l'app aux usages et évolutions techniques
+octobre - décembre : lancement national 
+
